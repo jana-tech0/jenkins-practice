@@ -13,7 +13,7 @@
         }
         stage("Deploy") {
            steps {
-            echo "Deploying"
+            echo "janardhan"
            }
         }
     }
