@@ -16,5 +16,10 @@
             echo "janardhan"
            }
         }
+        stage("Deploy") {
+           steps {
+            echo "Deploying"
+           }
+        }
     }
  }
